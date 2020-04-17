@@ -61,7 +61,7 @@ systemd-python==234
 tinycss==0.4
 typing-extensions==3.7.4.2
 ufw==0.36
-urllib3==1.24.1
+urllib3==1.24.2
 websockets==8.1
 wget==3.2
 yarl==1.4.2
